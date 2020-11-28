@@ -1,6 +1,6 @@
 {
   "name": "nest-microservices-redis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A NestJS module for generator-nest-microservices yeoman template to handle redis features",
   "license": "UNLICENSED",
   "author": "Jason Magpantay",
